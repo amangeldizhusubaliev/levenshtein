@@ -1,0 +1,12 @@
+D:\projects\levenshtein\levenshtein\bin\Debug\netcoreapp3.1\levenshtein.exe
+D:\projects\levenshtein\levenshtein\bin\Debug\netcoreapp3.1\levenshtein.deps.json
+D:\projects\levenshtein\levenshtein\bin\Debug\netcoreapp3.1\levenshtein.runtimeconfig.json
+D:\projects\levenshtein\levenshtein\bin\Debug\netcoreapp3.1\levenshtein.runtimeconfig.dev.json
+D:\projects\levenshtein\levenshtein\bin\Debug\netcoreapp3.1\levenshtein.dll
+D:\projects\levenshtein\levenshtein\bin\Debug\netcoreapp3.1\levenshtein.pdb
+D:\projects\levenshtein\levenshtein\obj\Debug\netcoreapp3.1\levenshtein.AssemblyInfoInputs.cache
+D:\projects\levenshtein\levenshtein\obj\Debug\netcoreapp3.1\levenshtein.AssemblyInfo.cs
+D:\projects\levenshtein\levenshtein\obj\Debug\netcoreapp3.1\levenshtein.csproj.CoreCompileInputs.cache
+D:\projects\levenshtein\levenshtein\obj\Debug\netcoreapp3.1\levenshtein.dll
+D:\projects\levenshtein\levenshtein\obj\Debug\netcoreapp3.1\levenshtein.pdb
+D:\projects\levenshtein\levenshtein\obj\Debug\netcoreapp3.1\levenshtein.genruntimeconfig.cache

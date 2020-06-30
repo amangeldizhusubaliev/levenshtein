@@ -1,0 +1,13 @@
+D:\projects\levenshtein\fingerprinting\bin\Debug\netcoreapp3.1\fingerprinting.exe
+D:\projects\levenshtein\fingerprinting\bin\Debug\netcoreapp3.1\fingerprinting.deps.json
+D:\projects\levenshtein\fingerprinting\bin\Debug\netcoreapp3.1\fingerprinting.runtimeconfig.json
+D:\projects\levenshtein\fingerprinting\bin\Debug\netcoreapp3.1\fingerprinting.runtimeconfig.dev.json
+D:\projects\levenshtein\fingerprinting\bin\Debug\netcoreapp3.1\fingerprinting.dll
+D:\projects\levenshtein\fingerprinting\bin\Debug\netcoreapp3.1\fingerprinting.pdb
+D:\projects\levenshtein\fingerprinting\obj\Debug\netcoreapp3.1\fingerprinting.AssemblyInfoInputs.cache
+D:\projects\levenshtein\fingerprinting\obj\Debug\netcoreapp3.1\fingerprinting.AssemblyInfo.cs
+D:\projects\levenshtein\fingerprinting\obj\Debug\netcoreapp3.1\fingerprinting.csproj.CoreCompileInputs.cache
+D:\projects\levenshtein\fingerprinting\obj\Debug\netcoreapp3.1\fingerprinting.dll
+D:\projects\levenshtein\fingerprinting\obj\Debug\netcoreapp3.1\fingerprinting.pdb
+D:\projects\levenshtein\fingerprinting\obj\Debug\netcoreapp3.1\fingerprinting.genruntimeconfig.cache
+D:\projects\levenshtein\fingerprinting\obj\Debug\netcoreapp3.1\fingerprinting.csprojAssemblyReference.cache
